@@ -1,2 +1,19 @@
-# myVue2
-一个基于Vue2.0的项目模板代码，已经继承axios、vueRouter等
+# hy-vue-temp
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
